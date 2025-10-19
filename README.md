@@ -60,6 +60,8 @@ The platform is designed for enterprise use, allowing teams to deploy resources 
 ---
 
 ## Repository Structure
+
+enterprise-azure-platform/
 ├── modules/ # Reusable Terraform modules (AKS, VM, Network, Security, Monitoring)
 ├── environments/ # Environment-specific Terraform configs (Dev, QA, Prod)
 ├── pipelines/ # Azure DevOps pipeline YAMLs

@@ -70,7 +70,7 @@ The platform is designed for enterprise use, allowing teams to deploy resources 
 ---
 
 ## Deployment Instructions
-1. Clone the repository:
+
 ```bash
 git clone https://github.com/<your-username>/enterprise-azure-platform.git
 cd enterprise-azure-platform
